@@ -13,6 +13,7 @@ public class GitApplication {
         System.out.println("hot-fix3");
         System.out.println("master");
         System.out.println("pushtest");
+         System.out.println("ooooooooo!");
         SpringApplication.run(GitApplication.class, args);
     }
 
